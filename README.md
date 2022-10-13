@@ -14,7 +14,7 @@ Now, you can use:
 flutter run
 ```
 
-Or use favorite IDE:
+Or use your favorite IDE:
 -	From Android Studio/IntelliJ: Click Packages get in the action ribbon at the top of pubspec.yaml.
 -	From VS Code: Click Get Packages located in right side of the action ribbon at the top of pubspec.yaml.
 
