@@ -1,16 +1,23 @@
 # simple_browser
 
-A new Flutter project.
+A simple web browser for Android as my first Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To install dependencies, run:
+```bash
+cd flutter_simple_browser
+flutter pub get
+``` 
+Now, you can use:
+```bash
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+Or use favorite IDE:
+From Android Studio/IntelliJ: Click Packages get in the action ribbon at the top of pubspec.yaml.
+From VS Code: Click Get Packages located in right side of the action ribbon at the top of pubspec.yaml.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
